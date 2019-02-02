@@ -1,0 +1,2 @@
+# safelinxku
+safelinxku blog
